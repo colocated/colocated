@@ -1,6 +1,6 @@
 <h3>
   👋 <a href="https://jackperry.co" target="_blank noref noreferrer">Hey, I'm Jack</a>
-  <img src="https://komarev.com/ghpvc/?username=jsJack&label=Profile%20views&color=c464ed&style=flat" align="right">
+  <img src="https://komarev.com/ghpvc/?username=colocated&label=Profile%20views&color=c464ed&style=flat" align="right">
 </h3>
 
 A Linux systems administrator & backend web/API developer, with interest in game server development.\
@@ -11,22 +11,22 @@ My favorite language is JavaScript ([Node.js](https://nodejs.org/en)), and I'm e
 
 ### ✨ Interesting facts about me
 
-* 🔧 I'm working on my [Discord Bot Framework](https://github.com/jsJack/Framework-v14).
+* 🔧 I'm working on my [Discord Bot Framework](https://github.com/colocated/Framework-v14).
 * 🌐 I'm learning web frontend.
 * 💬 I can speak a basic amount of Spanish.
-* 🌟 I use AtlasOS 0.4 (based on Windows 11 Pro).
+* 🌟 I use AtlasOS 0.5 (based on Windows 11 Pro).
 * 📚 I use 4 programming langauges daily, and I know 6.
 * 🎧 [This](https://www.last.fm/user/JackIsNotReal) is the music I listen to.
 
-### 📧 My socials
+### ＠ My socials
 
 If you're interested in reaching out, here's how:
 
 * 💬 Discord: [@js.jack](https://discord.com/users/324596012955992065)
 * 📧 E-Mail: [hello@jackperry.co](mailto:hello@jackperry.co) (`hello at jackperry dot co`)
-* 📸 Instagram: [__jackperry](https://instagram.com/__jackperry)
-* 🐦 Twitter: [@jackpxrry](https://x.com/jackpxrry)
 * 🤝 Linkedin: [Jack Perry](https://www.linkedin.com/in/jxckperry/)
+* 📸 Instagram: [__jackperry](https://instagram.com/__jackperry)
+* 🐦 Twitter: [@jackpxrry](https://x.com/colocated_)
 
 > 💡 Ranked most to least responsive
 
@@ -64,11 +64,12 @@ If you're interested in reaching out, here's how:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔢 My Statistics
-![My GitHub Stats](https://gh-stats.jackperry.co/api?username=jsJack&show_icons=true&theme=dark#gh-dark-mode-only)
-![Top Langs](https://gh-stats.jackperry.co/api/top-langs/?username=jsJack&hide=lua&layout=compact&theme=dark#gh-dark-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats-pi-gilt.vercel.app?user=jsJack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![My GitHub Stats](https://gh-stats.jackperry.co/api?username=colocated&show_icons=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://gh-stats.jackperry.co/api/top-langs/?username=colocated&hide=lua&layout=compact&theme=dark#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats-pi-gilt.vercel.app?user=colocated&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- I wonder when I'll fix this? - Jack, 16th Feb 2025 -->
-<!-- ![My GitHub Stats Light Mode](https://gh-stats.jackperry.co/api?username=jsJack&show_icons=true&theme=default#gh-light-mode-only) -->
-<!-- ![Top Langs Light Mode](https://gh-stats.jackperry.co/api/top-langs/?username=jsJack&hide=lua&layout=compact&theme=default#gh-light-mode-only) -->
-<!-- [![GitHub Streak Light Mode](https://github-readme-streak-stats-pi-gilt.vercel.app?user=jsJack&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<!-- I don't think it'll ever happen - Jack, 30th Oct 2025 -->
+<!-- ![My GitHub Stats Light Mode](https://gh-stats.jackperry.co/api?username=colocated&show_icons=true&theme=default#gh-light-mode-only) -->
+<!-- ![Top Langs Light Mode](https://gh-stats.jackperry.co/api/top-langs/?username=colocated&hide=lua&layout=compact&theme=default#gh-light-mode-only) -->
+<!-- [![GitHub Streak Light Mode](https://github-readme-streak-stats-pi-gilt.vercel.app?user=colocated&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
