@@ -26,7 +26,7 @@ If you're interested in reaching out, here's how:
 * 📧 E-Mail: [hello@jackperry.co](mailto:hello@jackperry.co) (`hello at jackperry dot co`)
 * 🤝 Linkedin: [Jack Perry](https://www.linkedin.com/in/jxckperry/)
 * 📸 Instagram: [__jackperry](https://instagram.com/__jackperry)
-* 🐦 Twitter: [@jackpxrry](https://x.com/colocated_)
+* 🐦 X/Twitter: [@colocated_](https://x.com/colocated_)
 
 > 💡 Ranked most to least responsive
 
