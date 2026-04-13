@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=colocated&label=Profile%20views&color=c464ed&style=flat" align="right">
 </h3>
 
-A Linux systems administrator & backend web/API developer, with interest in game server development.\
-In my free time, I'm playing [Fortnite](https://fn.gg) or [Minecraft](https://minecraft.net) and I'm currently watching [Manifest](https://www.imdb.com/title/tt8421350/). \
-My favorite language is JavaScript ([Node.js](https://nodejs.org/en)), and I'm experimenting with frontend web development via [The Odin Project](https://theodinproject.com).
+A Linux systems administrator & fullstack web/API developer, with interest in fullstack web apps at scale.\
+In my free time, I'm playing [Fortnite](https://fn.gg) or [Minecraft](https://minecraft.net), or watching TV. \
+My favorite language is [TypeScript](https://www.typescriptlang.org/) (on [Node.js](https://nodejs.org/en)).
 
 <img align="right" width=360px alt="GIF" src="https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
 
