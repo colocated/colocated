@@ -11,10 +11,9 @@ My favorite language is JavaScript ([Node.js](https://nodejs.org/en)), and I'm e
 
 ### ✨ Interesting facts about me
 
-* 🔧 I'm working on my [Discord Bot Framework](https://github.com/colocated/Framework-v14).
-* 🌐 I'm learning web frontend.
+* 🔧 I'm working on software at [Black Opal](https://github.com/BlackOpalHQ).
 * 💬 I can speak a basic amount of Spanish.
-* 🌟 I use AtlasOS 0.5 (based on Windows 11 Pro).
+* 🌟 I use a Macbook Pro M5 Pro daily, and my AtlasOS 0.5 (Windows 11) build for gaming.
 * 📚 I use 4 programming langauges daily, and I know 6.
 * 🎧 [This](https://www.last.fm/user/JackIsNotReal) is the music I listen to.
 
@@ -22,7 +21,7 @@ My favorite language is JavaScript ([Node.js](https://nodejs.org/en)), and I'm e
 
 If you're interested in reaching out, here's how:
 
-* 💬 Discord: [@js.jack](https://discord.com/users/324596012955992065)
+* 💬 Discord: [@colocated](https://discord.com/users/324596012955992065)
 * 📧 E-Mail: [hello@jackperry.co](mailto:hello@jackperry.co) (`hello at jackperry dot co`)
 * 🤝 Linkedin: [Jack Perry](https://www.linkedin.com/in/jxckperry/)
 * 📸 Instagram: [__jackperry](https://instagram.com/__jackperry)
@@ -50,7 +49,6 @@ If you're interested in reaching out, here's how:
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)\
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -66,10 +64,9 @@ If you're interested in reaching out, here's how:
 ### 🔢 My Statistics
 ![My GitHub Stats](https://gh-stats.jackperry.co/api?username=colocated&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://gh-stats.jackperry.co/api/top-langs/?username=colocated&hide=lua&layout=compact&theme=dark#gh-dark-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats-pi-gilt.vercel.app?user=colocated&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- I wonder when I'll fix this? - Jack, 16th Feb 2025 -->
 <!-- I don't think it'll ever happen - Jack, 30th Oct 2025 -->
+<!-- Not today sunshine - Jack, April 13th 2026 -->
 <!-- ![My GitHub Stats Light Mode](https://gh-stats.jackperry.co/api?username=colocated&show_icons=true&theme=default#gh-light-mode-only) -->
 <!-- ![Top Langs Light Mode](https://gh-stats.jackperry.co/api/top-langs/?username=colocated&hide=lua&layout=compact&theme=default#gh-light-mode-only) -->
-<!-- [![GitHub Streak Light Mode](https://github-readme-streak-stats-pi-gilt.vercel.app?user=colocated&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
